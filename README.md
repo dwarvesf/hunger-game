@@ -1,10 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Deployements:
+## Deployements
 
 | Name        | Link                                |
 | ----------- | ----------------------------------- |
 | Development | https://df-hunger-game.netlify.app/ |
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/11691985/205851793-903cc638-7348-4266-8c8a-e4c55fc8d094.png)
+![image](https://user-images.githubusercontent.com/11691985/205851806-456975c3-71df-4108-8ffd-42411bd09a64.png)
+![image](https://user-images.githubusercontent.com/11691985/205851823-160d1828-34e3-4119-abad-5ea8e5b744b0.png)
 
 ## Getting Started
 
